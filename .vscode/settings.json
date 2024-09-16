@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "../huffman/huffman.h": "c",
+        "huffman.h": "c"
+    }
+}
